@@ -9,6 +9,9 @@
     "test": "mocha --colors"
   },
   "keywords": [],
+  "engines": {
+    "node": "v12.16.2"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
